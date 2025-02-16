@@ -1,6 +1,6 @@
 # ToDoApp
 
-A simple To-Do list application built with React. Keep track of your tasks and mark them as done.
+A simple To-Do list application built with React. Tailwind css experimenting.
 
 ## Usage
 Once the app is running, you can:
